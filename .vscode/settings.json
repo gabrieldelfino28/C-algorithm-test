@@ -1,0 +1,11 @@
+{
+   "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+   "files.associations": {
+      "locale.h": "c",
+      "stdbool.h": "c",
+      "stdio.h": "c",
+      "calclib.h": "c",
+      "when_you_know.h": "c"
+   },
+   "editor.fontSize": 15
+}
